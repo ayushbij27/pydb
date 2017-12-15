@@ -1,2 +1,2 @@
 # pydb
-Simple Implementation of database in python
+Simple Implementation of database in python from scratch
